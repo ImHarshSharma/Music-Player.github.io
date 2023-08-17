@@ -11,5 +11,7 @@ Main Homepage of the website is index.html and styling for the this html is done
 
 #Video :
 
-https://github.com/ImHarshSharma/Music-Player.github.io/assets/103068420/289ed54e-73fb-43d8-81f9-88f7af18152b
+https://github.com/ImHarshSharma/Music-Player.github.io/assets/103068420/707b2380-cec9-4e03-9dc9-4475a4304370
+
+
 
