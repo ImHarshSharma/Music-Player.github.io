@@ -6,7 +6,7 @@ Main Homepage of the website is index.html and styling for the this html is done
 # ScreenShot :
 
 ![IMG_20230817_222935](https://github.com/ImHarshSharma/Music-Player.github.io/assets/103068420/05e02fa2-f861-4e9c-83f2-d00b6df18fd2)
-![IMG_20230817_222957](https://github.com/ImHarshSharma/Music-Player.github.io/assets/103068420/d904704a-2a1e-4695-993f-a1b431cd12b3)
+
 ![IMG_20230817_223011](https://github.com/ImHarshSharma/Music-Player.github.io/assets/103068420/f529d8d1-2775-4272-80a8-b140fbdd098c)
 
 #Video :
