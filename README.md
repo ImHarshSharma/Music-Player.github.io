@@ -9,7 +9,7 @@ Main Homepage of the website is index.html and styling for the this html is done
 
 ![IMG_20230817_223011](https://github.com/ImHarshSharma/Music-Player.github.io/assets/103068420/f529d8d1-2775-4272-80a8-b140fbdd098c)
 
-#Video :
+# Video :
 
 https://github.com/ImHarshSharma/Music-Player.github.io/assets/103068420/707b2380-cec9-4e03-9dc9-4475a4304370
 
